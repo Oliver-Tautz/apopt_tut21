@@ -11,7 +11,7 @@ In addition here are some organizational details:
 ## Basic Organization
 
 * My name is Oliver Tautz, write questions to `apopt@techfak.uni-bielefeld.de`. Don't be afraid, Babara Hammer isn't reading the mails! you can also write to `otautz@techfak.uni-bielefeld.de` if you prefer 
-* The exercises are biweekly, starting from **26.10.21**
+* The tutorial are held biweekly on **Tuesday 12-14 in H13**, starting from **26.10.21**
 * please enroll in the courses **392219** and **392220** so I can contact you via email and the CP can be booked at the end of the semester
 * **You will need a red or green 3G sticker on your *unicard* to attend the tutorial**
 
