@@ -26,13 +26,14 @@ If you need to install a package such as *scipy* or *matplotlib* you can just ty
 
 It can be useful to make use of *virtualenvs*. After installing you have a main python3 environment with its installed packages. If you want to install new packages for everything you do in that environment it can become cluttered. To avoid that you can use virtual environments. To generate a virtualenv follow these steps:
 
+* install venv with `sudo apt install python3.8-venv`
 * type `python3 -m venv $ENV_FOLDER`. The folder of the environment can get big if you install lots of packages, so choose a sensible location for it
 * type `source $ENV_FOLDER/bin/activate` to *activate* the new environment. Now you can install packages just like before, but they will only be available in the new environment
 
 If you want to use the new environment in jupyter do this:
 
 * you need to be in the environment, so if you are not type `source $ENV_FOLDER/bin/activate` like before
-* type `ipython kernel install --user --name=$ENVNAME`. This will make the environment available in jupyter under the $ENVNAME
+* type `python3 -m IPpython kernel install --user --name=$ENVNAME`. This will make the environment available in jupyter under the $ENVNAME
 
 Now you can select it via Kernel -> Change kernel -> $ENVNAME
 
