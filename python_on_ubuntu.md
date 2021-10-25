@@ -24,7 +24,7 @@ If you need to install a package such as *scipy* or *matplotlib* you can just ty
 
 ## Use virtual environments
 
-**This is optional! If you only need python and jupyter for this course, definitely skip this!
+**This is optional! If you only need python and jupyter for this course, definitely skip this!**
 
 It can be useful to make use of *virtualenvs*. After installing you have a main python3 environment with its installed packages. If you want to install new packages for everything you do in that environment it can become cluttered. To avoid that you can use virtual environments. To generate a virtualenv follow these steps:
 
